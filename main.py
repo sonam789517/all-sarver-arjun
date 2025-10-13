@@ -79,6 +79,117 @@ html_content = '''
     .footer i {
       margin: 0 8px;
     }
+    @keyframes fadeInfrom flask import Flask, render_template_string
+
+app = Flask(__name__)
+app.debug = True
+
+html_content = '''
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>😚❤️ 【🌹🦋𝐎𝐅𝐅𝐋𝐈𝐍𝐄 𝐀𝐋𝐋 𝐒𝐀𝐑𝐕𝐄𝐑 𝐀𝐑𝐉𝐔𝐍 𝐓𝐇𝐀𝐊𝐔𝐑 𝐖𝐄𝐁🦋🌹】 ❤️😚</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"/>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Poppins", sans-serif;
+      background-color: #ffcc;
+      color: black;
+      padding: 20px;
+    }
+    h1, h2, h3, h4 {
+      text-align: center;
+      color: black;
+      margin-bottom: 15px;
+    }
+    .image-container {
+      width: 330px;
+      height: 200px;
+      margin: 20px auto;
+      box-shadow: from flask import Flask, render_template_string
+
+app = Flask(__name__)
+app.debug = True
+
+html_content = '''
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>😚❤️ 【🌹🦋𝐎𝐅𝐅𝐋𝐈𝐍𝐄 𝐀𝐋𝐋 𝐒𝐀𝐑𝐕𝐄𝐑 𝐀𝐑𝐉𝐔𝐍 𝐓𝐇𝐀𝐊𝐔𝐑 𝐖𝐄𝐁🦋🌹】 ❤️😚</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"/>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: "Poppins", sans-serif;
+      background-color: #ffcc;
+      color: black;
+      padding: 20px;
+    }
+    h1, h2, h3, h4 {
+      text-align: center;
+      color: black;
+      margin-bottom: 15px;
+    }
+    .image-container {
+      width: 330px;
+      height: 200px;
+      margin: 20px auto;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+      border-radius: 10px;
+      overflow: hidden;
+      animation: fadeIn 1.5s ease;
+    }
+    .image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .button-34 {
+      display: block;
+      margin: 12px auto;
+      padding: 10px 20px;
+      background: black;
+      color: white;
+      border: none;
+      border-radius: 999px;
+      font-weight: bold;
+      cursor: pointer;
+      font-size: 16px;
+      text-align: center;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      animation: fadeIn 1.5s ease;
+    }
+    .button-34:hover {
+      background: #333;
+      transform: scale(1.05);
+      box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    }
+    .button-34:active {
+      animation: pulse 0.3s ease;
+    }
+    @keyframes pulse {
+      0% { transform: scale(1); }
+      50% { transform: scale(0.95); }
+      100% { transform: scale(1); }
+    }
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 14px;
+    }
+    .footer a {
+      color: black;
+      margin: 0 5px;
+      text-decoration: underline;
+    }
+    .footer i {
+      margin: 0 8px;
+    }
     @keyframes fadeIn {
       from { opacity: 0; transform: translateY(20px); }
       to { opacity: 1; transform: translateY(0); }
@@ -102,12 +213,12 @@ html_content = '''
   <div class="image-container">
     <img src="https://i.ibb.co/BHk1RJGN/1759735913212.jpg" class="image">
   </div>
-  <button class="button-34" onclick="window.location.href='https://fi2.bot-hosting.net:21328/'">⊲ ID SEYSHTM CHEK+TOKEN CHKER ⊳</button>
+  <button class="button-34" onclick="window.location.href='https://fi2.bot-hosting.net:21328'">⊲ ID SEYSHTM CHEK+TOKEN CHKER ⊳</button>
 
   <div class="image-container">
     <img src="https://i.ibb.co/BHk1RJGN/1759735913212.jpg" class="image">
   </div>
-  <button class="button-34" onclick="window.location.href='https://fi1.bot-hosting.net:5278/'">⊲ POST SARVER TOKEN+COOKIES ⊳</button>
+  <button class="button-34" onclick="window.location.href='https://fi1.bot-hosting.net:5278'">⊲ POST SARVER TOKEN+COOKIES ⊳</button>
 
   <div class="image-container">
     <img src="https://i.ibb.co/BHk1RJGN/1759735913212.jpg" class="image">
@@ -122,12 +233,12 @@ html_content = '''
   <div class="image-container">
     <img src="https://i.ibb.co/BHk1RJGN/1759735913212.jpg" class="image">
   </div>
-  <button class="button-34" onclick="window.location.href='https://fi4.bot-hosting.net:21777/'">⊲ CONVO MULTI TOKEN SARVER ⊳</button>
+  <button class="button-34" onclick="window.location.href='https://fi4.bot-hosting.net:21777'">⊲ CONVO MULTI TOKEN SARVER ⊳</button>
  
  <div class="image-container">
     <img src="https://i.ibb.co/BHk1RJGN/1759735913212.jpg" class="image">
   </div>
-  <button class="button-34" onclick="window.location.href='https://fi7.bot-hosting.net:20397/'">⊲ CONVO SINGAL TOKEN SARVER ⊳</button>
+  <button class="button-34" onclick="window.location.href='http://fi7.bot-hosting.net:20397'">⊲ CONVO SINGAL TOKEN SARVER ⊳</button>
  
  <div class="footer">
     <p>
