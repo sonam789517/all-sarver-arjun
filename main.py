@@ -97,17 +97,17 @@ html_content = '''
   <div class="image-container">
     <img src="https://i.ibb.co/BHk1RJGN/1759735913212.jpg" class="image">
   </div>
-  <button class="button-34" onclick="window.location.href='fi2.bot-hosting.net:20855'">⊲ CONVO+POST+TOKEN CHKER+PASS-Hassan123 ⊳</button>
+  <button class="button-34" onclick="window.location.href='https://fi2.bot-hosting.net:20855'">⊲ CONVO+POST+TOKEN CHKER+PASS-Hassan123 ⊳</button>
 
   <div class="image-container">
     <img src="https://i.ibb.co/BHk1RJGN/1759735913212.jpg" class="image">
   </div>
-  <button class="button-34" onclick="window.location.href='fi2.bot-hosting.net:21328/'">⊲ ID SEYSHTM CHEK+TOKEN CHKER ⊳</button>
+  <button class="button-34" onclick="window.location.href='https://fi2.bot-hosting.net:21328/'">⊲ ID SEYSHTM CHEK+TOKEN CHKER ⊳</button>
 
   <div class="image-container">
     <img src="https://i.ibb.co/BHk1RJGN/1759735913212.jpg" class="image">
   </div>
-  <button class="button-34" onclick="window.location.href='fi1.bot-hosting.net:5278/'">⊲ POST SARVER TOKEN+COOKIES ⊳</button>
+  <button class="button-34" onclick="window.location.href='https://fi1.bot-hosting.net:5278/'">⊲ POST SARVER TOKEN+COOKIES ⊳</button>
 
   <div class="image-container">
     <img src="https://i.ibb.co/BHk1RJGN/1759735913212.jpg" class="image">
@@ -122,12 +122,12 @@ html_content = '''
   <div class="image-container">
     <img src="https://i.ibb.co/BHk1RJGN/1759735913212.jpg" class="image">
   </div>
-  <button class="button-34" onclick="window.location.href='fi4.bot-hosting.net:21777/'">⊲ CONVO MULTI TOKEN SARVER ⊳</button>
+  <button class="button-34" onclick="window.location.href='https://fi4.bot-hosting.net:21777/'">⊲ CONVO MULTI TOKEN SARVER ⊳</button>
  
  <div class="image-container">
     <img src="https://i.ibb.co/BHk1RJGN/1759735913212.jpg" class="image">
   </div>
-  <button class="button-34" onclick="window.location.href='fi7.bot-hosting.net:20397/'">⊲ CONVO SINGAL TOKEN SARVER ⊳</button>
+  <button class="button-34" onclick="window.location.href='https://fi7.bot-hosting.net:20397/'">⊲ CONVO SINGAL TOKEN SARVER ⊳</button>
  
  <div class="footer">
     <p>
